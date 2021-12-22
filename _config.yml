@@ -12,5 +12,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - day01-SpringCloud01.md
 title: xuxt1979's notebook
 theme: jekyll-theme-cayman
